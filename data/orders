@@ -1,0 +1,5 @@
+order_id,customer_id,employee_id,order_date,shipped_date,shipping_fee
+51,26,9,4/5/2006,4/5/2006,60
+56,6,2,4/3/2006,4/3/2006,0
+79,6,2,6/23/2006,6/23/2006,0
+

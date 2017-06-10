@@ -1,0 +1,8 @@
+product_id,product_code,product_name,category,quantity_per_unit,list_price
+5,NWTO-5,Northwind Traders Olive Oil,Oil,36 boxes,21.35
+7,NWTDFN-7,Northwind Traders Dried Pears,Dried Fruit & Nuts,12 - 1lb pkgs,30
+40,NWTCM-40,Northwind Traders Crab Meat,Canned Meat,24 - 4 oz tins,1840
+41,NWTSO-41,Northwind Traders Clam Chowder,Soups,12 - 12 oz cans,9.65
+48,NWTCA-48,Northwind Traders Chocolate,Candy,10 pkgs,12.75
+51,NWTDFN-51,Northwind Traders Dried Apples,Dried Fruit & Nuts,50 - 300 g pkgs,53
+
